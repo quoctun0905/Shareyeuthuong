@@ -1,0 +1,6 @@
+Product_ID,Product_Type,Quantity_Sold,Price_Per_Unit,Sale_Date
+P001,Electronics,34,450,2021-01-15
+P002,Clothing,20,35,2021-02-01
+P003,Home Decor,15,60,2021-02-18
+P004,Books,45,25,2021-03-05
+P005,Electronics,24,870,2021-03-15
